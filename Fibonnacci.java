@@ -1,6 +1,6 @@
 //fibonnacci series:
 import java.util.Scanner;
-public class fibonnacci{
+public class Fibonnacci{
     static int n1=0,n2=1,n3;
     public static void main(String args[]){
         try (Scanner sc = new Scanner(System.in)) {
